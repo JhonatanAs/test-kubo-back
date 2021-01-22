@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sipatpubenza.caulyizst5i0.us-east-1.rds.amazonaws.com',
-	'username' => 'adminDBsiigott',
-	'password' => 'adminrdsSIIGOTT*',
-	'database' => 'peliculas',
+	'hostname' => 'caulyizst5i0.us-east-1.rds.amazonaws.com',
+	'username' => '',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
